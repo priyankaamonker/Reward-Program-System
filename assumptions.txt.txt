@@ -1,0 +1,17 @@
+Status:
+1 - Active
+0 - Inactive
+
+Type:
+1 - Sale
+2 - Training 
+
+Role:
+1 - Employee
+2 - Partner
+
+Request Status:
+1 - Pending
+2 - Approved
+3 - Denied
+4 - Deleted

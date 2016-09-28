@@ -1,0 +1,1 @@
+News item has been successfully added.
